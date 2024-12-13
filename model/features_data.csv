@@ -1,0 +1,549 @@
+municipality,region,province,prosperity_index
+Menen,Région Flamande,Flandre Occidentale,91.0
+Herzele,Région Flamande,Flandre Orientale,114.0
+Middelkerke,Région Flamande,Flandre Occidentale,107.0
+Damme,Région Flamande,Flandre Occidentale,111.0
+Antwerpen,Région Flamande,Antwerpen,87.0
+Ixelles,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,70.0
+Bruxelles,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,70.0
+Saint-Josse-Ten-Noode,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,70.0
+Saint-Gilles,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,70.0
+Mouscron,Région Wallonne,Hainaut,81.0
+Alken,Région Flamande,Limbourg,112.0
+Blankenberge,Région Flamande,Flandre Occidentale,102.0
+Turnhout,Région Flamande,Antwerpen,93.0
+Hechtel-Eksel,Région Flamande,Limbourg,98.0
+Yvoir,Région Wallonne,Namur,105.0
+Deinze,Région Flamande,Flandre Orientale,114.0
+Molenbeek-Saint-Jean,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,58.0
+Sint-Pieters-Leeuw,Région Flamande,Brabant Flamand,96.0
+Roeselare,Région Flamande,Flandre Occidentale,100.0
+Stekene,Région Flamande,Flandre Orientale,111.0
+Geetbets,Région Flamande,Brabant Flamand,104.0
+Tournai,Région Wallonne,Hainaut,95.0
+Evere,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,73.0
+Sint-Truiden,Région Flamande,Limbourg,103.0
+Brugge,Région Flamande,Flandre Occidentale,110.0
+Denderleeuw,Région Flamande,Flandre Orientale,101.0
+Bertrix,Région Wallonne,Luxembourg,90.0
+Nieuwpoort,Région Flamande,Flandre Occidentale,110.0
+Erpe-Mere,Région Flamande,Flandre Orientale,115.0
+Uccle,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,111.0
+Profondeville,Région Wallonne,Namur,110.0
+Wuustwezel,Région Flamande,Antwerpen,106.0
+Herentals,Région Flamande,Antwerpen,110.0
+Leuven,Région Flamande,Brabant Flamand,114.0
+Oostende,Région Flamande,Flandre Occidentale,99.0
+Halle,Région Flamande,Brabant Flamand,104.0
+Liège,Région Wallonne,Liège,81.0
+Lede,Région Flamande,Flandre Orientale,116.0
+Charleroi,Région Wallonne,Hainaut,72.0
+Waregem,Région Flamande,Flandre Occidentale,106.0
+Vilvoorde,Région Flamande,Brabant Flamand,92.0
+Anderlecht,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,62.0
+Koksijde,Région Flamande,Flandre Occidentale,137.0
+Ganshoren,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,79.0
+La Roche-En-Ardenne,Région Wallonne,Luxembourg,93.0
+Vosselaar,Région Flamande,Antwerpen,114.0
+Geraardsbergen,Région Flamande,Flandre Orientale,103.0
+Kasterlee,Région Flamande,Antwerpen,113.0
+Fléron,Région Wallonne,Liège,95.0
+Aalst,Région Flamande,Flandre Orientale,105.0
+Kortemark,Région Flamande,Flandre Occidentale,96.0
+Chaudfontaine,Région Wallonne,Liège,125.0
+Grimbergen,Région Flamande,Brabant Flamand,114.0
+Knokke-Heist,Région Flamande,Flandre Occidentale,150.0
+Bornem,Région Flamande,Antwerpen,120.0
+Gent,Région Flamande,Flandre Orientale,103.0
+Balen,Région Flamande,Antwerpen,104.0
+Woluwe-Saint-Pierre,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,112.0
+Seraing,Région Wallonne,Liège,77.0
+Kluisbergen,Région Flamande,Flandre Orientale,108.0
+Saint-Nicolas,Région Wallonne,Liège,75.0
+Izegem,Région Flamande,Flandre Occidentale,100.0
+Kontich,Région Flamande,Antwerpen,126.0
+Le Rœulx,Région Wallonne,Hainaut,103.0
+Bernissart,Région Wallonne,Hainaut,91.0
+Herselt,Région Flamande,Antwerpen,108.0
+Zandhoven,Région Flamande,Antwerpen,115.0
+Gavere,Région Flamande,Flandre Orientale,121.0
+Braine-L'Alleud,Région Wallonne,Brabant Wallon,117.0
+La Calamine,Région Wallonne,Liège,89.0
+Bouillon,Région Wallonne,Luxembourg,89.0
+Aartselaar,Région Flamande,Antwerpen,124.0
+Dendermonde,Région Flamande,Flandre Orientale,107.0
+Maasmechelen,Région Flamande,Limbourg,87.0
+Oostrozebeke,Région Flamande,Flandre Occidentale,100.0
+Houthulst,Région Flamande,Flandre Occidentale,93.0
+Beauraing,Région Wallonne,Namur,87.0
+Spa,Région Wallonne,Liège,97.0
+Saint-Ghislain,Région Wallonne,Hainaut,95.0
+Kapellen,Région Flamande,Antwerpen,129.0
+Boussu,Région Wallonne,Hainaut,77.0
+Aalter,Région Flamande,Flandre Orientale,115.0
+Kortrijk,Région Flamande,Flandre Occidentale,103.0
+Etterbeek,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,70.0
+Florenville,Région Wallonne,Luxembourg,90.0
+De Haan,Région Flamande,Flandre Occidentale,117.0
+Visé,Région Wallonne,Liège,96.0
+Espierres-Helchin,Région Flamande,Flandre Occidentale,99.0
+Mechelen,Région Flamande,Antwerpen,105.0
+Jabbeke,Région Flamande,Flandre Occidentale,118.0
+Laarne,Région Flamande,Flandre Orientale,120.0
+Oosterzele,Région Flamande,Flandre Orientale,122.0
+Forest,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,81.0
+Genappe,Région Wallonne,Brabant Wallon,116.0
+Sint-Martens-Latem,Région Flamande,Flandre Orientale,151.0
+Huy,Région Wallonne,Liège,93.0
+Lier,Région Flamande,Antwerpen,109.0
+Jodoigne,Région Wallonne,Brabant Wallon,106.0
+Namur,Région Wallonne,Namur,98.0
+Schaerbeek,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,68.0
+Wavre,Région Wallonne,Brabant Wallon,112.0
+Machelen,Région Flamande,Brabant Flamand,86.0
+Eeklo,Région Flamande,Flandre Orientale,100.0
+Ittre,Région Wallonne,Brabant Wallon,115.0
+De Panne,Région Flamande,Flandre Occidentale,107.0
+Marchin,Région Wallonne,Liège,105.0
+Aarschot,Région Flamande,Brabant Flamand,114.0
+Woluwe-Saint-Lambert,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,93.0
+Tienen,Région Flamande,Brabant Flamand,105.0
+Koekelberg,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,67.0
+Nandrin,Région Wallonne,Liège,126.0
+Hastière,Région Wallonne,Namur,84.0
+Herstal,Région Wallonne,Liège,80.0
+Ieper,Région Flamande,Flandre Occidentale,100.0
+Ninove,Région Flamande,Flandre Orientale,104.0
+Grâce-Hollogne,Région Wallonne,Liège,83.0
+Berlaar,Région Flamande,Antwerpen,107.0
+Libramont-Chevigny,Région Wallonne,Luxembourg,97.0
+La Louvière,Région Wallonne,Hainaut,80.0
+Crisnée,Région Wallonne,Liège,112.0
+Rendeux,Région Wallonne,Luxembourg,92.0
+Arlon,Région Wallonne,Luxembourg,114.0
+Londerzeel,Région Flamande,Brabant Flamand,118.0
+Léglise,Région Wallonne,Luxembourg,100.0
+Meerhout,Région Flamande,Antwerpen,107.0
+Zaventem,Région Flamande,Brabant Flamand,102.0
+Mons,Région Wallonne,Hainaut,87.0
+Brasschaat,Région Flamande,Antwerpen,121.0
+Pepinster,Région Wallonne,Liège,92.0
+Lille,Région Flamande,Antwerpen,108.0
+Paliseul,Région Wallonne,Luxembourg,90.0
+Aubange,Région Wallonne,Luxembourg,89.0
+Estaimpuis,Région Wallonne,Hainaut,93.0
+Oudenburg,Région Flamande,Flandre Occidentale,104.0
+Amay,Région Wallonne,Liège,93.0
+Aywaille,Région Wallonne,Liège,100.0
+Zoersel,Région Flamande,Antwerpen,121.0
+Renaix,Région Flamande,Flandre Orientale,84.0
+Marche-En-Famenne,Région Wallonne,Luxembourg,94.0
+Orp-Jauche,Région Wallonne,Brabant Wallon,108.0
+Rotselaar,Région Flamande,Brabant Flamand,127.0
+Overijse,Région Flamande,Brabant Flamand,130.0
+Malmedy,Région Wallonne,Liège,96.0
+Sint-Niklaas,Région Flamande,Flandre Orientale,96.0
+Dinant,Région Wallonne,Namur,89.0
+Olen,Région Flamande,Antwerpen,108.0
+Waterloo,Région Wallonne,Brabant Wallon,127.0
+Willebroek,Région Flamande,Antwerpen,100.0
+Houthalen-Helchteren,Région Flamande,Limbourg,93.0
+Herent,Région Flamande,Brabant Flamand,133.0
+Bassenge,Région Wallonne,Liège,98.0
+Flémalle,Région Wallonne,Liège,88.0
+Wanze,Région Wallonne,Liège,105.0
+Zottegem,Région Flamande,Flandre Orientale,116.0
+Somme-Leuze,Région Wallonne,Namur,97.0
+Fleurus,Région Wallonne,Hainaut,88.0
+Maldegem,Région Flamande,Flandre Orientale,104.0
+Mont-Saint-Guibert,Région Wallonne,Brabant Wallon,117.0
+Beernem,Région Flamande,Flandre Occidentale,108.0
+Diksmuide,Région Flamande,Flandre Occidentale,97.0
+Torhout,Région Flamande,Flandre Occidentale,103.0
+Ledegem,Région Flamande,Flandre Occidentale,98.0
+Poperinge,Région Flamande,Flandre Occidentale,95.0
+Nijlen,Région Flamande,Antwerpen,110.0
+Hulshout,Région Flamande,Antwerpen,108.0
+Avelgem,Région Flamande,Flandre Occidentale,101.0
+Oud-Turnhout,Région Flamande,Antwerpen,110.0
+Jette,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,79.0
+Bekkevoort,Région Flamande,Brabant Flamand,112.0
+Burdinne,Région Wallonne,Liège,115.0
+Watermael-Boitsfort,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,107.0
+Geer,Région Wallonne,Liège,112.0
+Geel,Région Flamande,Antwerpen,109.0
+Temse,Région Flamande,Flandre Orientale,106.0
+Frasnes-Lez-Anvaing,Région Wallonne,Hainaut,101.0
+Destelbergen,Région Flamande,Flandre Orientale,126.0
+Wervik,Région Flamande,Flandre Occidentale,93.0
+Puurs-Sint-Amands,Région Flamande,Antwerpen,118.0
+Thuin,Région Wallonne,Hainaut,103.0
+Westerlo,Région Flamande,Antwerpen,109.0
+Braine-Le-Comte,Région Wallonne,Hainaut,100.0
+Saint-Vith,Région Wallonne,Liège,103.0
+Ottignies-Louvain-La-Neuve,Région Wallonne,Brabant Wallon,105.0
+Sainte-Ode,Région Wallonne,Luxembourg,87.0
+Putte,Région Flamande,Antwerpen,115.0
+Ans,Région Wallonne,Liège,88.0
+Scherpenheuvel-Zichem,Région Flamande,Brabant Flamand,109.0
+Beerse,Région Flamande,Antwerpen,112.0
+Durbuy,Région Wallonne,Luxembourg,92.0
+Gembloux,Région Wallonne,Namur,110.0
+Engis,Région Wallonne,Liège,86.0
+Quiévrain,Région Wallonne,Hainaut,80.0
+Wetteren,Région Flamande,Flandre Orientale,106.0
+Brecht,Région Flamande,Antwerpen,115.0
+Leopoldsburg,Région Flamande,Limbourg,96.0
+Halen,Région Flamande,Limbourg,111.0
+Asse,Région Flamande,Brabant Flamand,104.0
+Duffel,Région Flamande,Antwerpen,114.0
+Fosses-La-Ville,Région Wallonne,Namur,98.0
+Lummen,Région Flamande,Limbourg,110.0
+Sint-Lievens-Houtem,Région Flamande,Flandre Orientale,116.0
+Sint-Gillis-Waas,Région Flamande,Flandre Orientale,113.0
+Assenede,Région Flamande,Flandre Orientale,111.0
+Nivelles,Région Wallonne,Brabant Wallon,113.0
+Kuurne,Région Flamande,Flandre Occidentale,100.0
+Berchem-Sainte-Agathe,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,82.0
+Edegem,Région Flamande,Antwerpen,122.0
+Essen,Région Flamande,Antwerpen,102.0
+Rochefort,Région Wallonne,Namur,92.0
+Verlaine,Région Wallonne,Liège,117.0
+Schilde,Région Flamande,Antwerpen,138.0
+Colfontaine,Région Wallonne,Hainaut,73.0
+Heist-Op-Den-Berg,Région Flamande,Antwerpen,110.0
+Kruisem,Région Flamande,Flandre Orientale,117.0
+Oupeye,Région Wallonne,Liège,94.0
+Biévène,Région Flamande,Brabant Flamand,111.0
+Kortenaken,Région Flamande,Brabant Flamand,111.0
+Harelbeke,Région Flamande,Flandre Occidentale,102.0
+Modave,Région Wallonne,Liège,108.0
+Soumagne,Région Wallonne,Liège,99.0
+Brakel,Région Flamande,Flandre Orientale,110.0
+Gistel,Région Flamande,Flandre Occidentale,104.0
+Boom,Région Flamande,Antwerpen,93.0
+Lasne,Région Wallonne,Brabant Wallon,140.0
+Soignies,Région Wallonne,Hainaut,95.0
+Merchtem,Région Flamande,Brabant Flamand,116.0
+Beringen,Région Flamande,Limbourg,95.0
+Bredene,Région Flamande,Flandre Occidentale,106.0
+Court-Saint-Étienne,Région Wallonne,Brabant Wallon,109.0
+Verviers,Région Wallonne,Liège,77.0
+Mortsel,Région Flamande,Antwerpen,112.0
+Oudenaarde,Région Flamande,Flandre Orientale,110.0
+Morlanwelz,Région Wallonne,Hainaut,88.0
+Hoegaarden,Région Flamande,Brabant Flamand,125.0
+Neufchâteau,Région Wallonne,Luxembourg,94.0
+Buggenhout,Région Flamande,Flandre Orientale,116.0
+Châtelet,Région Wallonne,Hainaut,77.0
+Tubize,Région Wallonne,Brabant Wallon,91.0
+Genk,Région Flamande,Limbourg,92.0
+Haaltert,Région Flamande,Flandre Orientale,113.0
+Kinrooi,Région Flamande,Limbourg,95.0
+Lierde,Région Flamande,Flandre Orientale,111.0
+Ham-Sur-Heure-Nalinnes,Région Wallonne,Hainaut,119.0
+Ath,Région Wallonne,Hainaut,102.0
+Havelange,Région Wallonne,Namur,96.0
+Hooglede,Région Flamande,Flandre Occidentale,103.0
+Zoutleeuw,Région Flamande,Brabant Flamand,109.0
+Ardooie,Région Flamande,Flandre Occidentale,102.0
+Wommelgem,Région Flamande,Antwerpen,110.0
+Courcelles,Région Wallonne,Hainaut,85.0
+Schelle,Région Flamande,Antwerpen,113.0
+Bocholt,Région Flamande,Limbourg,95.0
+Clavier,Région Wallonne,Liège,105.0
+Herenthout,Région Flamande,Antwerpen,105.0
+Comines-Warneton,Région Wallonne,Hainaut,80.0
+Chastre,Région Wallonne,Brabant Wallon,116.0
+Habay,Région Wallonne,Luxembourg,111.0
+Libin,Région Wallonne,Luxembourg,97.0
+Lebbeke,Région Flamande,Flandre Orientale,108.0
+Laakdal,Région Flamande,Antwerpen,108.0
+Belœil,Région Wallonne,Hainaut,94.0
+Remicourt,Région Wallonne,Liège,113.0
+Meise,Région Flamande,Brabant Flamand,126.0
+Zemst,Région Flamande,Brabant Flamand,130.0
+Sambreville,Région Wallonne,Namur,88.0
+Linter,Région Flamande,Brabant Flamand,113.0
+Wielsbeke,Région Flamande,Flandre Occidentale,100.0
+Bertem,Région Flamande,Brabant Flamand,130.0
+Érezée,Région Wallonne,Luxembourg,96.0
+Hoogstraten,Région Flamande,Antwerpen,100.0
+Gingelom,Région Flamande,Limbourg,109.0
+Sprimont,Région Wallonne,Liège,114.0
+Malle,Région Flamande,Antwerpen,112.0
+Mettet,Région Wallonne,Namur,101.0
+Rhode-Saint-Genèse,Région Flamande,Brabant Flamand,131.0
+Zelzate,Région Flamande,Flandre Orientale,95.0
+Oostkamp,Région Flamande,Flandre Occidentale,112.0
+Deerlijk,Région Flamande,Flandre Occidentale,106.0
+Anzegem,Région Flamande,Flandre Occidentale,108.0
+Auderghem,Région De Bruxelles-Capitale,Région De Bruxelles-Capitale,104.0
+Waremme,Région Wallonne,Liège,104.0
+Zwalm,Région Flamande,Flandre Orientale,116.0
+Liedekerke,Région Flamande,Brabant Flamand,103.0
+Grobbendonk,Région Flamande,Antwerpen,114.0
+Dilsen-Stokkem,Région Flamande,Limbourg,95.0
+Anderlues,Région Wallonne,Hainaut,85.0
+Walcourt,Région Wallonne,Namur,102.0
+Pont-À-Celles,Région Wallonne,Hainaut,107.0
+Beauvechain,Région Wallonne,Brabant Wallon,119.0
+Zele,Région Flamande,Flandre Orientale,99.0
+Zedelgem,Région Flamande,Flandre Occidentale,110.0
+Dalhem,Région Wallonne,Liège,110.0
+Zonhoven,Région Flamande,Limbourg,109.0
+Rebecq,Région Wallonne,Brabant Wallon,100.0
+Anhée,Région Wallonne,Namur,97.0
+Pecq,Région Wallonne,Hainaut,96.0
+Evergem,Région Flamande,Flandre Orientale,113.0
+Beersel,Région Flamande,Brabant Flamand,114.0
+Kraainem,Région Flamande,Brabant Flamand,117.0
+Andenne,Région Wallonne,Namur,94.0
+Schoten,Région Flamande,Antwerpen,118.0
+Grez-Doiceau,Région Wallonne,Brabant Wallon,123.0
+Oud-Heverlee,Région Flamande,Brabant Flamand,143.0
+Aubel,Région Wallonne,Liège,106.0
+Musson,Région Wallonne,Luxembourg,101.0
+Dilbeek,Région Flamande,Brabant Flamand,114.0
+Kalmthout,Région Flamande,Antwerpen,118.0
+Houffalize,Région Wallonne,Luxembourg,92.0
+Linkebeek,Région Flamande,Brabant Flamand,122.0
+Rixensart,Région Wallonne,Brabant Wallon,123.0
+Virton,Région Wallonne,Luxembourg,95.0
+Rumst,Région Flamande,Antwerpen,117.0
+Kortenberg,Région Flamande,Brabant Flamand,124.0
+Lommel,Région Flamande,Limbourg,100.0
+Wevelgem,Région Flamande,Flandre Occidentale,103.0
+Jurbise,Région Wallonne,Hainaut,109.0
+Chaumont-Gistoux,Région Wallonne,Brabant Wallon,133.0
+Saint-Hubert,Région Wallonne,Luxembourg,90.0
+Antoing,Région Wallonne,Hainaut,89.0
+Juprelle,Région Wallonne,Liège,107.0
+Heusden-Zolder,Région Flamande,Limbourg,96.0
+Stabroek,Région Flamande,Antwerpen,117.0
+Keerbergen,Région Flamande,Brabant Flamand,147.0
+Berlare,Région Flamande,Flandre Orientale,109.0
+Awans,Région Wallonne,Liège,106.0
+Lendelede,Région Flamande,Flandre Occidentale,104.0
+Bonheiden,Région Flamande,Antwerpen,136.0
+Boortmeerbeek,Région Flamande,Brabant Flamand,126.0
+Maarkedal,Région Flamande,Flandre Orientale,120.0
+Roosdaal,Région Flamande,Brabant Flamand,119.0
+Jemeppe-Sur-Sambre,Région Wallonne,Namur,97.0
+Dison,Région Wallonne,Liège,66.0
+Steenokkerzeel,Région Flamande,Brabant Flamand,117.0
+Attert,Région Wallonne,Luxembourg,137.0
+Saint-Léger,Région Wallonne,Luxembourg,110.0
+Oreye,Région Wallonne,Liège,105.0
+Dessel,Région Flamande,Antwerpen,107.0
+Lessines,Région Wallonne,Hainaut,92.0
+Holsbeek,Région Flamande,Brabant Flamand,130.0
+Faimes,Région Wallonne,Liège,115.0
+Arendonk,Région Flamande,Antwerpen,99.0
+Peer,Région Flamande,Limbourg,100.0
+Burg-Reuland,Région Wallonne,Liège,98.0
+Cerfontaine,Région Wallonne,Namur,95.0
+Ingelmunster,Région Flamande,Flandre Occidentale,100.0
+Braine-Le-Château,Région Wallonne,Brabant Wallon,116.0
+Diest,Région Flamande,Brabant Flamand,111.0
+Tinlot,Région Wallonne,Liège,112.0
+Lubbeek,Région Flamande,Brabant Flamand,131.0
+Vaux-Sur-Sûre,Région Wallonne,Luxembourg,94.0
+Landen,Région Flamande,Brabant Flamand,110.0
+Bierbeek,Région Flamande,Brabant Flamand,134.0
+Dentergem,Région Flamande,Flandre Occidentale,103.0
+Frameries,Région Wallonne,Hainaut,84.0
+Hamoir,Région Wallonne,Liège,96.0
+Nassogne,Région Wallonne,Luxembourg,94.0
+Herk-De-Stad,Région Flamande,Limbourg,111.0
+Tervuren,Région Flamande,Brabant Flamand,129.0
+Lo-Reninge,Région Flamande,Flandre Occidentale,94.0
+Pittem,Région Flamande,Flandre Occidentale,99.0
+Sombreffe,Région Wallonne,Namur,104.0
+Waasmunster,Région Flamande,Flandre Orientale,125.0
+Zutendaal,Région Flamande,Limbourg,108.0
+Opwijk,Région Flamande,Brabant Flamand,116.0
+Zulte,Région Flamande,Flandre Orientale,107.0
+Neupré,Région Wallonne,Liège,129.0
+Villers-La-Ville,Région Wallonne,Brabant Wallon,114.0
+Péruwelz,Région Wallonne,Hainaut,88.0
+Koekelare,Région Flamande,Flandre Occidentale,98.0
+Lint,Région Flamande,Antwerpen,128.0
+Gouvy,Région Wallonne,Luxembourg,88.0
+Lievegem,Région Flamande,Flandre Orientale,113.0
+Vorselaar,Région Flamande,Antwerpen,108.0
+Diepenbeek,Région Flamande,Limbourg,108.0
+Pelt,Région Flamande,Limbourg,99.0
+Gerpinnes,Région Wallonne,Hainaut,115.0
+Tremelo,Région Flamande,Brabant Flamand,122.0
+Begijnendijk,Région Flamande,Brabant Flamand,117.0
+Gesves,Région Wallonne,Namur,112.0
+Esneux,Région Wallonne,Liège,120.0
+Retie,Région Flamande,Antwerpen,110.0
+Hamois,Région Wallonne,Namur,100.0
+Ranst,Région Flamande,Antwerpen,120.0
+Heers,Région Flamande,Limbourg,101.0
+Boutersem,Région Flamande,Brabant Flamand,127.0
+Ravels,Région Flamande,Antwerpen,95.0
+Alveringem,Région Flamande,Flandre Occidentale,96.0
+Hove,Région Flamande,Antwerpen,141.0
+Horebeke,Région Flamande,Flandre Orientale,125.0
+Merksplas,Région Flamande,Antwerpen,104.0
+Boechout,Région Flamande,Antwerpen,124.0
+Silly,Région Wallonne,Hainaut,103.0
+Ciney,Région Wallonne,Namur,96.0
+Perwez,Région Wallonne,Brabant Wallon,111.0
+Wellin,Région Wallonne,Luxembourg,94.0
+Wichelen,Région Flamande,Flandre Orientale,112.0
+Lierneux,Région Wallonne,Liège,96.0
+Wijnegem,Région Flamande,Antwerpen,110.0
+Hamme,Région Flamande,Flandre Orientale,102.0
+Sint-Katelijne-Waver,Région Flamande,Antwerpen,116.0
+Assesse,Région Wallonne,Namur,109.0
+Rumes,Région Wallonne,Hainaut,91.0
+Glabbeek,Région Flamande,Brabant Flamand,120.0
+Saint-Georges-Sur-Meuse,Région Wallonne,Liège,98.0
+Stavelot,Région Wallonne,Liège,96.0
+Lichtervelde,Région Flamande,Flandre Occidentale,104.0
+Celles,Région Wallonne,Hainaut,95.0
+Villers-Le-Bouillet,Région Wallonne,Liège,109.0
+Kapelle-Op-Den-Bos,Région Flamande,Brabant Flamand,121.0
+Borsbeek,Région Flamande,Antwerpen,87.0
+Florennes,Région Wallonne,Namur,92.0
+Olne,Région Wallonne,Liège,101.0
+Aiseau-Presles,Région Wallonne,Hainaut,87.0
+Leuze-En-Hainaut,Région Wallonne,Hainaut,95.0
+Héron,Région Wallonne,Liège,110.0
+Affligem,Région Flamande,Brabant Flamand,116.0
+Wortegem-Petegem,Région Flamande,Flandre Orientale,118.0
+Zwevegem,Région Flamande,Flandre Occidentale,106.0
+Ternat,Région Flamande,Brabant Flamand,114.0
+Wellen,Région Flamande,Limbourg,110.0
+Haacht,Région Flamande,Brabant Flamand,125.0
+Fernelmont,Région Wallonne,Namur,112.0
+Heuvelland,Région Flamande,Flandre Occidentale,94.0
+Zonnebeke,Région Flamande,Flandre Occidentale,99.0
+Comblain-Au-Pont,Région Wallonne,Liège,91.0
+Bullange,Région Wallonne,Liège,98.0
+Brunehaut,Région Wallonne,Hainaut,96.0
+Messancy,Région Wallonne,Luxembourg,119.0
+La Hulpe,Région Wallonne,Brabant Wallon,124.0
+Waimes,Région Wallonne,Liège,94.0
+Wemmel,Région Flamande,Brabant Flamand,108.0
+Rijkevorsel,Région Flamande,Antwerpen,101.0
+Erquelinnes,Région Wallonne,Hainaut,83.0
+Fontaine-L'Évêque,Région Wallonne,Hainaut,86.0
+Étalle,Région Wallonne,Luxembourg,116.0
+Hannut,Région Wallonne,Liège,111.0
+Quaregnon,Région Wallonne,Hainaut,76.0
+Chièvres,Région Wallonne,Hainaut,97.0
+Anthisnes,Région Wallonne,Liège,110.0
+Daverdisse,Région Wallonne,Luxembourg,86.0
+Veurne,Région Flamande,Flandre Occidentale,101.0
+Vleteren,Région Flamande,Flandre Occidentale,90.0
+Wezembeek-Oppem,Région Flamande,Brabant Flamand,123.0
+Riemst,Région Flamande,Limbourg,102.0
+Braives,Région Wallonne,Liège,107.0
+Hotton,Région Wallonne,Luxembourg,89.0
+Ohey,Région Wallonne,Namur,100.0
+Hemiksem,Région Flamande,Antwerpen,103.0
+Lennik,Région Flamande,Brabant Flamand,123.0
+Lincent,Région Wallonne,Liège,106.0
+Ouffet,Région Wallonne,Liège,103.0
+Ichtegem,Région Flamande,Flandre Occidentale,99.0
+Meix-Devant-Virton,Région Wallonne,Luxembourg,95.0
+Maaseik,Région Flamande,Limbourg,100.0
+Tellin,Région Wallonne,Luxembourg,97.0
+Niel,Région Flamande,Antwerpen,102.0
+Drogenbos,Région Flamande,Brabant Flamand,90.0
+Écaussinnes,Région Wallonne,Hainaut,97.0
+Staden,Région Flamande,Flandre Occidentale,95.0
+Huldenberg,Région Flamande,Brabant Flamand,127.0
+Lanaken,Région Flamande,Limbourg,102.0
+Ramillies,Région Wallonne,Brabant Wallon,107.0
+Lens,Région Wallonne,Hainaut,98.0
+Bree,Région Flamande,Limbourg,99.0
+Viroinval,Région Wallonne,Namur,86.0
+Kaprijke,Région Flamande,Flandre Orientale,114.0
+Tielt-Winge,Région Flamande,Brabant Flamand,115.0
+Seneffe,Région Wallonne,Hainaut,109.0
+Thimister-Clermont,Région Wallonne,Liège,107.0
+Manhay,Région Wallonne,Luxembourg,96.0
+Chapelle-Lez-Herlaimont,Région Wallonne,Hainaut,88.0
+Pepingen,Région Flamande,Brabant Flamand,122.0
+Tintigny,Région Wallonne,Luxembourg,102.0
+Herve,Région Wallonne,Liège,102.0
+Dour,Région Wallonne,Hainaut,83.0
+Éghezée,Région Wallonne,Namur,110.0
+Hoeilaart,Région Flamande,Brabant Flamand,126.0
+Honnelles,Région Wallonne,Hainaut,101.0
+Fourons,Région Flamande,Limbourg,101.0
+Vielsalm,Région Wallonne,Luxembourg,89.0
+Moorslede,Région Flamande,Flandre Occidentale,99.0
+Hélécine,Région Wallonne,Brabant Wallon,104.0
+Chiny,Région Wallonne,Luxembourg,94.0
+Binche,Région Wallonne,Hainaut,90.0
+Nieuwerkerken,Région Flamande,Limbourg,104.0
+Beyne-Heusay,Région Wallonne,Liège,89.0
+Ferrières,Région Wallonne,Liège,104.0
+Brugelette,Région Wallonne,Hainaut,97.0
+Mont-De-L'Enclus,Région Wallonne,Hainaut,100.0
+Blegny,Région Wallonne,Liège,107.0
+Messines,Région Flamande,Flandre Occidentale,77.0
+Farciennes,Région Wallonne,Hainaut,66.0
+Bièvre,Région Wallonne,Namur,85.0
+Theux,Région Wallonne,Liège,109.0
+Sint-Laureins,Région Flamande,Flandre Orientale,106.0
+Les Bons Villers,Région Wallonne,Hainaut,112.0
+Doische,Région Wallonne,Namur,88.0
+Eupen,Région Wallonne,Liège,96.0
+Jalhay,Région Wallonne,Liège,113.0
+Manage,Région Wallonne,Hainaut,82.0
+Froidchapelle,Région Wallonne,Hainaut,88.0
+Chimay,Région Wallonne,Hainaut,85.0
+Welkenraedt,Région Wallonne,Liège,96.0
+Rouvroy,Région Wallonne,Luxembourg,93.0
+Kampenhout,Région Flamande,Brabant Flamand,127.0
+Flobecq,Région Wallonne,Hainaut,104.0
+Butgenbach,Région Wallonne,Liège,94.0
+Walhain,Région Wallonne,Brabant Wallon,119.0
+Hamont-Achel,Région Flamande,Limbourg,94.0
+Langemark-Poelkapelle,Région Flamande,Flandre Occidentale,100.0
+Vresse-Sur-Semois,Région Wallonne,Namur,87.0
+Beaumont,Région Wallonne,Hainaut,94.0
+Ellezelles,Région Wallonne,Hainaut,104.0
+Oudsbergen,Région Flamande,Limbourg,102.0
+Trois-Ponts,Région Wallonne,Liège,94.0
+Houyet,Région Wallonne,Namur,92.0
+Fauvillers,Région Wallonne,Luxembourg,99.0
+Fexhe-Le-Haut-Clocher,Région Wallonne,Liège,109.0
+Sivry-Rance,Région Wallonne,Hainaut,91.0
+Momignies,Région Wallonne,Hainaut,77.0
+Gedinne,Région Wallonne,Namur,88.0
+Incourt,Région Wallonne,Brabant Wallon,113.0
+Herbeumont,Région Wallonne,Luxembourg,92.0
+Hensies,Région Wallonne,Hainaut,88.0
+Couvin,Région Wallonne,Namur,84.0
+Philippeville,Région Wallonne,Namur,91.0
+As,Région Flamande,Limbourg,107.0
+Estinnes,Région Wallonne,Hainaut,99.0
+La Bruyère,Région Wallonne,Namur,119.0
+Plombières,Région Wallonne,Liège,91.0
+Baarle-Hertog,Région Flamande,Antwerpen,91.0
+Montigny-Le-Tilleul,Région Wallonne,Hainaut,113.0
+Lobbes,Région Wallonne,Hainaut,102.0
+Donceel,Région Wallonne,Liège,120.0
+Lontzen,Région Wallonne,Liège,96.0
+Quévy,Région Wallonne,Hainaut,103.0
+Zuienkerke,Région Flamande,Flandre Occidentale,115.0
+Berloz,Région Wallonne,Liège,107.0
+Martelange,Région Wallonne,Luxembourg,94.0
+Tenneville,Région Wallonne,Luxembourg,98.0
+Raeren,Région Wallonne,Liège,104.0
+Wasseiges,Région Wallonne,Liège,103.0
+Onhaye,Région Wallonne,Namur,96.0
+Limbourg,Région Wallonne,Liège,96.0
+Stoumont,Région Wallonne,Liège,105.0
+Floreffe,Région Wallonne,Namur,107.0
+Amblève,Région Wallonne,Liège,96.0
+Merbes-Le-Château,Région Wallonne,Hainaut,90.0
