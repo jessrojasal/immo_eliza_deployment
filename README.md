@@ -128,7 +128,7 @@ A text file listing all the Python packages and dependencies required to run the
 **Deployment Stage Description**
 In this stage, the focus is on deploying the machine learning model that predicts real estate prices in Belgium using a Random Forest Regression Model. The model was trained using a dataset of 37,021 entries with 20 different features, which was initially collected through a [scrapping challenge](https://github.com/MaximSchuermans/immo-eliza/blob/main/data/cleaned_data.csv) from the Belgian real estate website [Immoweb](https://www.immoweb.be/). The dataset was expanded with additional data from a second round of scraping.
 
-The model is being integrated into a web application built with Streamlit, an open-source Python library for creating interactive web apps.The deployment allows users to input property characteristics and locations to get price predictions. 
+The model is being integrated into a [web application built with Streamlit](https://realestatepricepredictor-immoeliza.streamlit.app/), an open-source Python library for creating interactive web apps.The deployment allows users to input property characteristics and locations to get price predictions.
 
 **Summary of the database after preprocess**
 - Shape: 21887, 5
